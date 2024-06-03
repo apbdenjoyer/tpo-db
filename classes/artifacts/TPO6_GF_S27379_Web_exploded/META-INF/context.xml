@@ -1,0 +1,12 @@
+<Context>
+    <Resource name="jdbc/mc_comp"
+              auth="Container"
+              type="javax.sql.DataSource"
+              description="This is the connection pool for mc_comp database"
+              maxTotal="20"
+              maxIdle="30"
+              maxWaitMillis="10000"
+              driverClassName="org.apache.derby.jdbc.ClientDriver"
+              url="jdbc:derby://localhost:1527/mc_comp;create=true"
+    />
+</Context>

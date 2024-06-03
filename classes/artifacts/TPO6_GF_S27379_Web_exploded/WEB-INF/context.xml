@@ -1,0 +1,9 @@
+<Context>
+    <Resource name="jdbc/ksidb" auth="Container"
+              type="javax.sql.DataSource"
+              description="Baza danych ksiazek"
+              driverClassName="org.apache.derby.jdbc.ClientDriver"
+              url="jdbc:derby://localhost/ksidb;create=true"
+              maxActive="20"
+    />
+</Context>

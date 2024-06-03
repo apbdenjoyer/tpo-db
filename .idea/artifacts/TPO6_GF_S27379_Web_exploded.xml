@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TPO6_GF_S27379:Web exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/TPO6_GF_S27379_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TPO6_GF_S27379/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TPO6_GF_S27379" />
+        </element>
+      </element>
+      <element id="module-output" name="TPO6_GF_S27379" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="TPO6_GF_S27379:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/TPO6_GF_S27379_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TPO6_GF_S27379/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
